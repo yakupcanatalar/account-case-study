@@ -20,8 +20,5 @@ public class AccountApplication implements CommandLineRunner {
 	public void run(String... args) throws Exception {
 		Account a =  new Account("a", BigDecimal.ONE, LocalDateTime.now(),null, SetsKt.emptySet());
 		Account b =  new Account("a", BigDecimal.ONE, LocalDateTime.now(),null, SetsKt.emptySet());
-
-		if ()
-
 	}
 }

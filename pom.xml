@@ -90,7 +90,7 @@
 					<compilerPlugins>
 						<plugin>spring</plugin>
 					</compilerPlugins>
-					<jvmTarget>23</jvmTarget>
+					<jvmTarget>22</jvmTarget>
 				</configuration>
 				<executions>
 					<execution>
